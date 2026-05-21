@@ -3,7 +3,7 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nisha+Yadav+%F0%9F%91%8B;Mathematician+%7C+Researcher+%7C+NPDF+Fellow;Solving+the+Unsolvable%2C+One+Equation+at+a+Time)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=nishamath96&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Nisha230796&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
 
 </div>
 
